@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grill Me"
+  short_description: "Interrogate the brief, confirm it, then begin work"
+  default_prompt: "Use $grill-me to question me until the project brief is ready for explicit approval."
